@@ -6,11 +6,11 @@ with open(PurePath(__file__).parent / "README.md") as f:
 	long_description = f.read()
 
 setup(
-	name="rot13",
+	name="pyrot13",
 	version="0.1.0",
 	author="Briano Goestiawan",
 	author_email="b@briano.io",
-	description="rot13 rotate letters by 13 place.",
+	description="pyrot13 rotate letters by 13 place.",
 	long_description=long_description,
 	long_description_content_type="text/markdown",
 	url="https://github.com/bbriano/pyrot13",

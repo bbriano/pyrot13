@@ -1,31 +1,27 @@
-rot13
-=====
+pyrot13
+=======
 
-rot13 rotate letters by 13 place.
+pyrot13 rotate letters by 13 place.
 
 Example
 -------
 
 **Package**
 
-	from rot13 import rot13
+	from pyrot13 import rot13
 
 	print(rot13("hello"))
 
 **Command**
 
-	$ echo hello | rot13
-	uryyb
-
-	$ echo hello | rot13 | rot13
-	hello
+	Coming soon.
 
 Install
 -------
 
-	$ pip install rot13
+	$ pip install pyrot13
 
 Bugs
 ----
 
-- rot13 only rotate ascii characters.
+- pyrot13 only rotate ascii characters.

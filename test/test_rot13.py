@@ -1,6 +1,6 @@
 import unittest
 
-from rot13 import rot13
+from pyrot13 import rot13
 
 
 class TestRot13(unittest.TestCase):

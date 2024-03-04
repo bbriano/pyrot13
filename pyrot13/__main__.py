@@ -1,6 +1,6 @@
 import sys
 
-from rot13 import rot13
+from pyrot13 import rot13
 
 
 def main() -> None:
